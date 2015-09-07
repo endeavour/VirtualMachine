@@ -1,7 +1,4 @@
-﻿// Learn more about F# at http://fsharp.net
-// See the 'F# Tutorial' project for more help.
-
-type OpCode =
+﻿type OpCode =
   | Halt = 0x01
   | IntPrint = 0x02
   | IntPush = 0x03
